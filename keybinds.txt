@@ -1,0 +1,11 @@
+Moving Turtle
+w = move forward
+a = turn left 45 degrees
+s = move backward
+d = turn right 45 degrees
+
+Drawing with Turtle
+e = penup
+r = pendown
+z = begin fill
+x = end fill
